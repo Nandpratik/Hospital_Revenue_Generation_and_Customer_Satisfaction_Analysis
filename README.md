@@ -27,3 +27,7 @@ Data-driven insights were utilized to identify areas for improvement and develop
 
 This project provided valuable insights into the hospital's performance, patient satisfaction levels, and revenue streams. By leveraging data analytics and PowerBI, actionable recommendations were developed to enhance hospital services, improve resource allocation, and optimize revenue generation.
 
+
+
+https://www.novypro.com/project/columbia-asia-hospital-revenue-generation-and-customer-satisfaction-analysis
+
